@@ -1,1 +1,2 @@
 # stock-market-analysis
+The objective of this project is to obtain stock market data such as share prices and their high and low values and store them in a database. The project is divided into 2 parts. In part 1, we obtain historical data of 5 company shares and store them in a postgreSQL database. In part 2, we will run a script in real time to fetch stock values with an interval of 1 minute on a particular day and store these in a postgreSQL database.
